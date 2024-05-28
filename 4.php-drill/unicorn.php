@@ -32,6 +32,4 @@ if (isset($_GET["species"])) {
         )
     );
 }
-// echo ($gender == "F") ? "$hello, lady!" : "$hello, sir!";
-
 ?>
