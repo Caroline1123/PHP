@@ -1,12 +1,4 @@
 <?php
-
-// In your new job, you have to maintain the code of a former developer. Make it DRY by creating a custom function calculate_cone_volume :
-// Volume of a cone which ray is 5 and height is 2
-// $volume = 5 * 5 * 3.14 * 2 * (1/3);
-// // Volume of a cone which ray is 3 and height is 4
-// $volume = 3 * 3 * 3.14 * 4 * (1/3);
-// echo 'The volume of a cone which ray is 3 and height is 4 = ' . $volume . ' cm<sup>3</sup><br />';
-
 function random_string()
 {
     $len1 = rand(1, 5);

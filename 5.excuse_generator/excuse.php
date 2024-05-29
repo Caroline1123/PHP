@@ -73,7 +73,7 @@ if (isset($_GET['name']) && (isset($_GET['teacher'])) && (isset($_GET['gender'])
     ;
     echo "<br><br>We thank you for your understanding. <br><br>
     Yours faithfully, <br><br>
-    $name/'s parents";
+    $name's parents";
 }
 
 ?>
